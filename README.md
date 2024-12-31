@@ -10,7 +10,7 @@ VibeCheck is a fun little sentiment analysis app I built using Python. It uses `
 - Encourages positive energy while acknowledging all emotions.
 
 ## Screenshot
-[image](https://github.com/BilalAhmadKhanKhattak/VibeCheck/blob/main/VibeCheckScreenshot.png)
+(!image)[https://github.com/BilalAhmadKhanKhattak/VibeCheck/blob/main/VibeCheckScreenshot.png]
 
 ## Why I Made This
 
