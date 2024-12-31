@@ -63,10 +63,10 @@ def analyze_sentiment():
 
 root = tk.Tk()
 root.title("VibeCheck By BILRED")
-root.geometry("1600x900")
+root.geometry("1600x700")
 root.configure(bg="lightYELLOW")
 
-bg_image = PhotoImage(file="vibecheck1600.png")
+bg_image = PhotoImage(file="vibecheck16002.png")
 bg_label = tk.Label(root, image=bg_image)
 bg_label.place(relwidth=1, relheight=1)
 
