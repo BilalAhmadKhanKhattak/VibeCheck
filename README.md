@@ -9,6 +9,9 @@ VibeCheck is a fun little sentiment analysis app I built using Python. It uses `
 - A simple, beginner-friendly interface made with `Tkinter`.
 - Encourages positive energy while acknowledging all emotions.
 
+## Screenshot
+[image](https://github.com/BilalAhmadKhanKhattak/VibeCheck/blob/main/VibeCheckScreenshot.png)
+
 ## Why I Made This
 
 It can be said that, this project started as a way for me to explore Python beyond the basics. While working on it, I learned about GUIs with `Tkinter` and how natural language processing works using `TextBlob`. It was super rewarding, not just for the technical skills but also because it helped me understand the power of creating something that can spread good vibes. This project is a "start", it’s not perfect, but that’s what learning is all about!
